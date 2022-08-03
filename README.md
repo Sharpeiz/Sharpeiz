@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sharpeiz
 - 👀 I’m interested in ... Multiplayer FPS
-- 🌱 I’m currently learning ... Unity
-- 💞️ I’m looking to collaborate on ... Unity
+- 🌱 I’m currently learning ... UE4
+- 💞️ I’m looking to collaborate on ... UE4
 - 📫 How to reach me ... sharpeizbus@gmail.com
 
 <!---
